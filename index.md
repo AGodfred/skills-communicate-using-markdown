@@ -8,4 +8,11 @@
 ###### This is a header six
 
 <!-- Adding images to the file -->
+### Adding an image
 ![An image of a Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+<!-- Adding a code block -->
+### Asimple Flutter Code
+```Flutter
+List<String> fruits = ['mango', 'orange','pawpaw','apple']
+```
